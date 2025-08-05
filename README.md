@@ -40,9 +40,9 @@ To evaluate whether active management adds value over passive indexing, using st
 - Risk-free rate: 2.89% (annual)
 
 ## 📄 Full Thesis
-[Download PDF](https://github.com/DLPietro/thesis-backtesting-etf-spx/blob/main/thesis.pdf)
+[Download PDF](thesis.pdf)
 
 ## 🚀 How to Run
 1. Install required packages:
    ```r
-   install.packages(c("quantmod", "PerformanceAnalytics", "rugarch", "caret", "neuralnet", "ggplot2", "TTR", "kableExtra", "knitr"))****
+   install.packages(c("quantmod", "PerformanceAnalytics", "rugarch", "caret", "neuralnet", "ggplot2", "TTR", "kableExtra", "knitr"))
